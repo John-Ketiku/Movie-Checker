@@ -9,5 +9,5 @@ elif age >= 13:
 elif age >= 5:
     print("you can watch a G or PG movie alone.")
 else:
-  print("OH NO you are too young to watch most movies, try again when you are much older 💀")
+  print("OH NO you are too young to watch most movies, try again when you are much older")
 
